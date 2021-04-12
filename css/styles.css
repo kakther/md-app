@@ -1,0 +1,24 @@
+.topnav {
+    background-color: aqua;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+form.input-button input[type=text]{
+    text-align: center;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid red;
+    float: left;
+    width: 50%;
+    
+}
+
+form.input-button button {
+    width: 15%;
+    float: left;
+    padding: 10px;
+    font-size: 17px;
+
+}

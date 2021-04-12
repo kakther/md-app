@@ -1,7 +1,7 @@
 
 # Introduction
 
-This app is a deliverable for an assignment in for my General Assembly curriculum for HTML, CSS, JavaScript and jQuery.  The goal is to create an app where user able to find physican(s) in their local area.
+This app is a deliverable for an assignment in for my General Assembly curriculum for HTML, CSS, JavaScript and jQuery.  The goal is to create a movies app where user able to search for movies. See description of moves and play.
 
 See *Appendix A: Assignment from General Assembly* for more information.
 
