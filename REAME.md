@@ -1,7 +1,7 @@
 
 # Introduction
 
-This app is a deliverable for an assignment in for my General Assembly curriculum for HTML, CSS, JavaScript and jQuery.  The goal is to create a movies app where user able to search for movies. See description of moves and play.
+This app is a deliverable for an assignment in for my General Assembly curriculum for HTML, CSS, JavaScript and jQuery.  The goal is to create a movies app where user able to search for movies. 
 
 See *Appendix A: Assignment from General Assembly* for more information.
 
@@ -11,6 +11,9 @@ The version of this app currently uploaded is 1.0.0.  In cases where I update th
 
 # Instructions for User
 
+1. User should be able to go to app 
+2. In the search bar user should be able to search for their favorite movies
+3. User should  be able to see moves' poster, name of the movies and year 
 
 **Correct**
 
@@ -38,4 +41,6 @@ The version of this app currently uploaded is 1.0.0.  In cases where I update th
 * [GitHub Hosted Site]
 
 # Future Plans
-
+1. "Movie Detail" should be clickable 
+2. Will add seperated browser for each movie 
+3. Use will able to play movie
