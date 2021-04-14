@@ -5,7 +5,7 @@ body{
 }
 .navbarheader a{
     display: block;
-    width: 100%;
+    /* width: 100%; */
     background-color: black;
     color: white;
     padding: 14px;
@@ -18,8 +18,10 @@ body{
 
 .topnav {
     background-color: gray;
-    overflow: hidden;
+    /* overflow: hidden; */
     text-align: center;
+    padding-top: 50px;
+    margin-bottom: 0px;
 }
 
 
@@ -28,28 +30,58 @@ form.input-button input[type=text]{
     padding: 10px;
     font-size: 17px;
     border: 1px solid red;
-    float: left;
+    /* float: left; */
     width: 80%;
+
+}
+
+form {
+    margin-top: 0px;
 }
 
 form.input-button button {
-    width: 16%;
-    float: left;
+    width: 18%;
+    /* float: left; */
     padding: 10px;
     font-size: 17px;
 
 }
 
-.row .posterImg{
-    width: 80%;
+#cardholder{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 h2, h3 {
     color: white;
 }
 
+.posterImg{
+    width: 100%;
+}
+
+/* Sticky Nav for the MovieInfo button */
+.navbarheader {
+    position: fixed;
+    width: 100%;
+}
+
+h1{
+    margin: 0px;
+}
+/* .input-button{
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px;
+
+} */
+
 /* Add media query to make the UI responsive */
-@media (min-width: 768px){
-    
+@media screen and (min-width: 768px){
+    #cardholder{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
    
 }
+
