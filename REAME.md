@@ -20,7 +20,8 @@ The version of this app currently uploaded is 1.0.0.  In cases where I update th
 
 **Incorrect**
 
-
+**Live site link:**
+ https://focused-pasteur-6d7a07.netlify.app/
 
 
 **This app uses:**
@@ -43,4 +44,4 @@ The version of this app currently uploaded is 1.0.0.  In cases where I update th
 # Future Plans
 1. "Movie Detail" should be clickable 
 2. Will add seperated browser for each movie 
-3. Use will able to play movie
+3. User should be able to play movie
